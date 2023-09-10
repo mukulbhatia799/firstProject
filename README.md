@@ -1,0 +1,2 @@
+# firstProject
+making first repository
