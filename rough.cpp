@@ -11,6 +11,5 @@ int main(){
     }
     cout << "bye" << endl;
 
-
     return 0;
 }
